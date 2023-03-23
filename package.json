@@ -1,0 +1,23 @@
+{
+  "name": "ddos-testing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cch137/ddos-testing.git"
+  },
+  "keywords": [
+    "ddos",
+    "testing"
+  ],
+  "author": "cch137",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cch137/ddos-testing/issues"
+  },
+  "homepage": "https://github.com/cch137/ddos-testing#readme"
+}
