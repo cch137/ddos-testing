@@ -10,7 +10,7 @@ const log = (status) => {
 
 for (let i = 0; i < 8; i++) {
   setInterval(() => {
-    fetch('https://ix.onrender.com/')
+    fetch('https://www.thecodeblog.net/')
     .then(res => log(res.status))
     .catch(err => log('timeout'));
   }, 0);
