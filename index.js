@@ -10,7 +10,7 @@ const log = (status) => {
 
 for (let i = 0; i < 8; i++) {
   setInterval(() => {
-    fetch('https://imagedelivery.net/nMLJ6iwvB35QDIOTiRU0QQ/45908993-a9fb-4b40-65b8-000a6eb54100/032')
+    fetch('https://p41vm2-8000.csb.app/')
     .then(res => log(res.status))
     .catch(err => log('timeout'));
   }, 0);
